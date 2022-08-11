@@ -1,5 +1,5 @@
 - C/C++
-- Python
+---> Python
 ---------------
 - Asembler
 - Rust
