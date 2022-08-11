@@ -1,13 +1,12 @@
-- C/C++
-- ---> Python
-- Asembler
-- Rust
+C/C++
+---> Python
+Asembler
+Rust
 
-
-- HTML, CSS
-- PHP
-- TypeScript
-- SQL
+HTML, CSS
+PHP
+TypeScript
+SQL
 
 
 <!---
